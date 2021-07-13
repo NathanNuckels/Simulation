@@ -14,7 +14,7 @@ Of course, I will announce it here once we move.
     - [ ] Create art for the room
         - [ ] Note: must be in img/rooms
         - [ ] must be png
-        - [ ] Note: 1 Tile = 50px
+        - [ ] Note: 1 Tile = ~~50px~~ 30px
     - [ ] New module: Doors
         - [ ] New class: Jail Door
             - [ ] Art
